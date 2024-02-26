@@ -1,29 +1,23 @@
-# Print-It WebSite v.1
+# PRINT IT!
+<img width="1680" alt="Capture d’écran 2023-11-27 à 12 43 29" src="https://github.com/karenbouissa/Print-it/assets/127218821/4fc36c44-bb0a-431e-8f5b-f5d86d3a0b05">
 
-Mission de création d'un diaporama avec défilement infini
-Contexte de la mission
-Dans le cadre de ce projet, notre objectif était de créer un diaporama avec défilement infini en utilisant HTML, CSS et JavaScript. Le diaporama devait afficher une série d'images et permettre à l'utilisateur de naviguer entre elles à l'aide de flèches de navigation.
+# FRANÇAIS
 
-Étapes du projet
-Pour mener à bien cette mission, nous avons suivi les étapes suivantes :
+Ce projet a été réalisé dans le cadre du 5e module de la formation Intégrateur Web proposée par OpenClassrooms. Le dépôt suivant contient le code source du prototype du site "Print it". 
 
-Création de la structure HTML : Nous avons ajouté les balises nécessaires pour afficher le diaporama, y compris les éléments pour les images et les flèches de navigation.
+"Print it" est une imprimerie familiale de petite taille spécialisée dans les services d'impression, offrant une gamme complète de solutions allant des impressions de tous formats en magasin et en ligne à des tirages grand format haute définition destinés aux bureaux et aux événements.
 
-Styles CSS : Nous avons stylisé le diaporama en utilisant des règles CSS pour positionner les éléments, définir les dimensions, les couleurs et les effets visuels.
+L'objectif de ce projet est la création d'un carrousel de bannières interactives en utilisant les langages HTML, CSS et JavaScript. 
 
-Ajout des flèches de navigation : Dans le HTML, nous avons inséré les balises pour les flèches de navigation (par exemple, des balises <button> avec des classes spécifiques). Nous avons également ajouté des icônes appropriées à l'aide de bibliothèques d'icônes ou de balises <img>.
+Ce projet a pour but dla mise en place d'un diaporama d'images, idéal pour la présentation d'images promotionnelles, de bannières publicitaires, ou tout autre contenu visuel que l'on souhaite mettre en avant sur un site Web.
 
-Event listeners pour le changement d'images : En JavaScript, nous avons utilisé des event listeners pour détecter les clics sur les flèches de navigation. Lorsqu'une flèche est cliquée, nous avons programmé la logique pour mettre à jour l'image affichée en fonction de la direction de défilement (précédent ou suivant).
+# ENGLISH
 
-Défilement infini : Pour permettre un défilement infini, nous avons mis en place des conditions pour gérer le passage d'une image à l'autre. Par exemple, lorsque l'utilisateur atteint la dernière image et clique sur "suivant", nous revenons à la première image et vice versa.
+This project was completed as part of the 5th module of the Web  Integrator training from OpenClassrooms. The following repository contains the source code for the "Print it" site prototype.
 
-Grands axes du travail réalisé
-Création de la structure HTML pour afficher le diaporama avec des balises appropriées.
-Mise en place des styles CSS pour positionner et styliser les éléments du diaporama.
-Ajout des flèches de navigation dans le HTML, en utilisant des balises <button> ou des balises <img> avec des classes spécifiques.
-Utilisation des event listeners en JavaScript pour détecter les clics sur les flèches de navigation.
-Programmation de la logique pour changer les images en fonction des clics sur les flèches.
-Gestion du défilement infini en mettant en place des conditions pour passer d'une image à l'autre de manière fluide.
-Grâce à ces différentes étapes, nous avons réussi à créer un diaporama fonctionnel avec défilement infini, offrant ainsi une expérience utilisateur agréable et intuitive.
+"Print it" is a small family-run printing business specializing in printing services, offering a wide range of solutions including in-store and online prints of all sizes, as well as large-format high-definition prints for offices and events.
 
-http://127.0.0.1:5500/index.html
+The goal of this project is to create an interactive banner carousel using HTML, CSS, and JavaScript.
+The aim of this project is to set up an image slider,  used to display  promotional images, advertising banners, or any other visual content that you want to highlight on your website.
+
+
