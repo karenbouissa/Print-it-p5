@@ -11,6 +11,8 @@ L'objectif de ce projet est la création d'un carrousel de bannières interactiv
 
 Ce projet a pour but dla mise en place d'un diaporama d'images, idéal pour la présentation d'images promotionnelles, de bannières publicitaires, ou tout autre contenu visuel que l'on souhaite mettre en avant sur un site Web.
 
+Visiter le site web :
+
 # ENGLISH
 
 This project was completed as part of the 5th module of the Web  Integrator training from OpenClassrooms. The following repository contains the source code for the "Print it" site prototype.
@@ -20,4 +22,4 @@ This project was completed as part of the 5th module of the Web  Integrator trai
 The goal of this project is to create an interactive banner carousel using HTML, CSS, and JavaScript.
 The aim of this project is to set up an image slider,  used to display  promotional images, advertising banners, or any other visual content that you want to highlight on your website.
 
-
+Visit the website : 
