@@ -1,5 +1,6 @@
 # PRINT IT!
-<img width="1680" alt="Capture d’écran 2023-11-27 à 12 43 29" src="https://github.com/karenbouissa/Print-it/assets/127218821/4fc36c44-bb0a-431e-8f5b-f5d86d3a0b05">
+![Uploading image.png…]()
+
 
 # FRANÇAIS
 
