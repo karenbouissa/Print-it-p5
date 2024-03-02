@@ -1,5 +1,6 @@
 # PRINT IT!
-![Uploading image.png…]()
+<img width="1455" alt="268449754-a2bead7b-caab-4b8a-8c79-2197024bacbc" src="https://github.com/karenbouissa/Print-it-p5/assets/127218821/184e832e-7584-44b0-a74f-9c37afa466ec">
+
 
 
 # FRANÇAIS
